@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 ## How to contribute
 ppay
 ## Copywrite
-more text
+more text. all rights reserved

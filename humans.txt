@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <student> thank you
+    <student> thank you very much
 
 # TECHNOLOGY COLOPHON
 
